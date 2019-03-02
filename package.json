@@ -1,0 +1,23 @@
+{
+  "name": "gitapitesting",
+  "version": "1.0.0",
+  "description": "for github integration testing",
+  "main": "main.js",
+  "dependencies": {
+    "simple-git": "^1.107.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veeryuvraj0014/GITapiTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veeryuvraj0014/GITapiTesting/issues"
+  },
+  "homepage": "https://github.com/veeryuvraj0014/GITapiTesting#readme"
+}
